@@ -16,3 +16,4 @@ spec:
       image: docker/whalesay:latest
       command: [cowsay]
       args: ["hello world"]
+#ates
